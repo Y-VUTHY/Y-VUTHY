@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Y-VUTHY.
+- 👀 I’m interested in software technologies.
+- 🌱 I’m currently learning technologies that related to software development. 
+- 💞️ I'm currently working as a junior software developer.
