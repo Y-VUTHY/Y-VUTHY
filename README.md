@@ -1,4 +1,4 @@
-![image](https://github.com/Y-VUTHY/Y-VUTHY/assets/110651648/120285cd-b79a-44bd-8afb-0562b250717a)
+![image](https://github.com/Y-VUTHY/Y-VUTHY/assets/110651648/c080391c-114c-45df-a77e-c9e429371516)
 
 - 👋 Hi, I’m @Y-VUTHY.
 - 👀 I’m interested in software technologies.
