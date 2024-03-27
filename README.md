@@ -1,6 +1,6 @@
-![Coding Customizable Cartoon Illustrations _ Bro Style](https://user-images.githubusercontent.com/110651648/226612431-7330c26f-3994-492f-a6c6-e45f7c591907.png)
+https://i.pinimg.com/564x/3c/12/73/3c1273bbb4b76c2199f55f244572abeb.jpg
 
 - 👋 Hi, I’m @Y-VUTHY.
 - 👀 I’m interested in software technologies.
 - 🌱 I’m currently learning technologies that related to software development. 
-- 💞️ I'm currently working as a junior software developer.
+- 💞️ I'm currently working as a junior frontend developer.
