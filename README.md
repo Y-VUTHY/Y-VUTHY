@@ -1,7 +1,7 @@
 ### About me
-- 🧑‍💻 <h1 align="start">Hi 👋, I'm Vuthy YIB</h1>
-- 💼 <h3 align="start">Frontend Developer </h3>
-- 🌱 <h3 align="start">Always learn something new.</h3>
+- 🧑‍💻 Hi 👋, I'm Vuthy YIB
+- 💼 Frontend Developer
+- 🌱 Always learn something new
 
 ---
 
