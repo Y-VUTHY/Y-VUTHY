@@ -1,6 +1,6 @@
 ### About me
 - 🧑‍💻 Hi 👋, I'm Vuthy YIB
-- 💼 Front-end Developer
+- 💼 Software Engineer
 - 🌱 Always learn something new
 
 ---
