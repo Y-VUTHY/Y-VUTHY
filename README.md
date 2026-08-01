@@ -1,4 +1,4 @@
 ### About me
 - 🧑‍💻 Hi 👋, I'm Vuthy YIB
-- 💼 Software Engineer
+- 💼 Software Developer
 - 🌱 Always learn something new
